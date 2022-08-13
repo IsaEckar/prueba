@@ -5,12 +5,12 @@
 }
 
 body {
-  background-color: rgb(241, 241, 241);
+  background-color: rgb(209, 177, 177);
 }
 
 button {
-  background-color: rgb(62, 223, 251);
-  color: rgb(76, 29, 232);
+  background-color: blue;
+  color: rgb(22, 22, 22);
   padding: 8px 4px;
   border-radius: 8px;
   cursor: pointer;
